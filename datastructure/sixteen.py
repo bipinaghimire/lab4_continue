@@ -1,7 +1,7 @@
 '''
  Write a Python program to check a list is empty or not
 '''
-l=[]
+l = []
 if l==[]:
     print(True)
 else:
