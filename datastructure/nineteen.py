@@ -1,8 +1,6 @@
 '''
-Write a program to find the factorial of a number.
+9.Write a Python program to select an item randomly from a list
 '''
-num=[5]
-fact=1
-for i in range(1,5+1):
-    fact=fact*i
-print(f'the factorial of {num} is {fact}')
+import random
+list=[2,4,5,6,8]
+print(random.choice(list))
