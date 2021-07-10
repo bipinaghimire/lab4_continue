@@ -1,7 +1,7 @@
 '''
 Write a Python program to create a set
 '''
-s={1,2,3,4}
+s = {5,2,6,3}
 print(s)
-a= set()
-print(f' {a} is an empty set.')
+X = set()
+print(f'Given set {X} is an empty set.')
