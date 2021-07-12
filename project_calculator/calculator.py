@@ -1,5 +1,5 @@
 from tkinter import *
-main= Tk()
+main = Tk()
 main.title('CALCULATOR')
 main.iconbitmap('C:/Users/user/Desktop/calculator.ico')
 e = Entry(main, width= 50, borderwidth=5 )
